@@ -1,9 +1,8 @@
 # DronySvatby
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](#)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](#)
 
 Projekt zaměřený na prezentaci svatebních videí/fotek z dronu i ze země. 
-Tahle verze je **přeorganizovaná** pro GitHub – čistá struktura, jasná pravidla a připravené soubory.
 
 ## 📂 Struktura
 ```
@@ -84,20 +83,5 @@ Otevři soubor `src/index.html` v prohlížeči.
 - `docs/` – dokumenty (PDF, texty, specifikace)
 - `extras_preserved/` – vše ostatní zachované beze změny
 
-## 🧭 Co jsem změnil
-- Sjednocení a úklid struktury (kód → `src/`, média → `assets/`).
-- Přidání `.gitignore`, `LICENSE` (MIT) a tohoto `README.md`.
-- Zachování původních souborů v `extras_preserved/`, abys o nic nepřišel.
-
-## ✅ Doporučení pro GitHub
-1. Vytvoř repo s názvem `DronySvatby`.
-2. Nahraj obsah této složky (nebo použij ZIP níže).
-3. V sekci *About* vyplň odkaz na demo (GitHub Pages) – **Settings → Pages → Deploy from branch → `main` / root**.
-
-## 📝 Poznámky
-- Pokud používáš knihovny/framworky (Bootstrap, Tailwind, apod.), zvaž přidání `package.json` a build kroku.
-- Pokud jsou součástí velké zdrojové soubory (RAW videa/fotky), zvaž nahrávání jen exportů nebo použití Git LFS.
-
----
 
 *Autor: Tomáš Stark*
